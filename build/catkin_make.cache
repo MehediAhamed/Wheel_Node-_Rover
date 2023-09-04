@@ -1,0 +1,2 @@
+altair
+-DCATKIN_DEVEL_PREFIX=/home/me-ubuntu/Desktop/hello_ws/devel -DCMAKE_INSTALL_PREFIX=/home/me-ubuntu/Desktop/hello_ws/install -G Unix Makefiles

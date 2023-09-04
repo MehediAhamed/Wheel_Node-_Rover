@@ -1,0 +1,8 @@
+prefix=/home/me-ubuntu/Desktop/hello_ws/install
+
+Name: altair
+Description: Description of altair
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
